@@ -7,4 +7,4 @@ Ricardo Romão\
 - Phyton
 - ...
 >Metodologias de Desenvolvimento de Software @ 2020
-![](Imagens/leiria.png)
+![]()
