@@ -1,7 +1,7 @@
 # FP-Markdown
 Ricardo Romão\
 `2201129`\
-##Linguagens de programação conhecidas:
+## Linguagens de programação conhecidas:
 - C
 - Javascript
 - Phyton
